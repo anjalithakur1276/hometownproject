@@ -1,0 +1,69 @@
+body {
+  font-family: "Happy Monkey", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  color: #ffeaea;
+}
+.jbp-1 {
+  margin-top: 400px;
+  background-color: #113f67;
+  border-radius: 10px;
+}
+.jbp-2 {
+  margin: 10px;
+  background-color: #748dae;
+  border-radius: 10px;
+  margin: auto;
+}
+#header {
+  background-image: url(./images/ankit-dandhare-AwF_P5BiJno-unsplash.jpg);
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 600px;
+}
+.jbp-img {
+  width: 200px;
+  border-radius: 50%;
+}
+
+#top-three {
+  margin-bottom: 100px;
+  text-align: center;
+  color: #57564f;
+}
+.activities {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.activity {
+  text-align: center;
+  color: #3b060a;
+  margin-left: 10px;
+}
+.tour-guide {
+  width: 150px;
+  margin: auto;
+  border: 2px solid #d9a299;
+}
+#footer {
+  margin: auto;
+}
+
+.card {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 400px;
+  margin: 50px auto;
+  color: #57564f;
+  border: 5px solid #91c8e4;
+  background-color: #a4ccd9;
+  padding: 20px;
+}
+.card-text {
+  text-align: left;
+  margin-left: 50px;
+}
